@@ -1,0 +1,7 @@
+C:\Users\thorp\source\repos\Lab18\Lab18\bin\Debug\Lab18.exe.config
+C:\Users\thorp\source\repos\Lab18\Lab18\bin\Debug\Lab18.exe
+C:\Users\thorp\source\repos\Lab18\Lab18\bin\Debug\Lab18.pdb
+C:\Users\thorp\source\repos\Lab18\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\Users\thorp\source\repos\Lab18\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\Users\thorp\source\repos\Lab18\Lab18\obj\Debug\Lab18.exe
+C:\Users\thorp\source\repos\Lab18\Lab18\obj\Debug\Lab18.pdb
